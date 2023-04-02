@@ -1158,7 +1158,7 @@ testimonials
   position: relative;
 }
 
-#testimonials .item .hover-effect {
+#projects .item .hover-effect {
   cursor: pointer;
   position: absolute;
   top: 0;
@@ -1173,7 +1173,7 @@ testimonials
   transition: all 0.5s ease 0s;
 }
 
-#testimonials .item .hover-content {
+#projects .item .hover-content {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1181,17 +1181,17 @@ testimonials
   width: 100%;
 }
 
-#testimonials .item:hover .hover-effect {
+#projects .item:hover .hover-effect {
   opacity: 1;
   visibility: visible;
 }
 
-#testimonials .item .hover-effect ul li {
+#projects .item .hover-effect ul li {
   display: inline-block;
   margin: 0px 5px;
 }
 
-#testimonials .item .hover-effect ul li a {
+#projects .item .hover-effect ul li a {
   width: 32px;
   height: 32px;
   display: inline-block;
@@ -1207,7 +1207,7 @@ testimonials
   transition: all 0.3s ease 0s;
 }
 
-#testimonials .item .hover-effect ul li a:hover {
+#projects .item .hover-effect ul li a:hover {
   color: #fff;
   background-color: #FFAF00;
 }
