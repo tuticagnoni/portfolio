@@ -1595,4 +1595,9 @@ portfolio
    font-size: 20px;
    margin-left: 0px;
   }
+
+  #about #tutispic {
+   padding: 0px;
+    /* border: 1px solid black; */
+  }
 }
